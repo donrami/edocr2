@@ -1,6 +1,6 @@
 # eDOCr2 - GD&T Analyzer Fork
 
-> **Fork Notice**: This is a modified version of [javvi51/edocr2](https://github.com/javvi51/edocr2) customized for GD&T feature control frame detection in the [GD&T Analyzer](https://github.com/donrami/gdtlens) project.
+> **Fork Notice**: This is a modified version of [javvi51/edocr2](https://github.com/javvi51/edocr2) customized for GD&T feature control frame detection in engineering drawing analysis applications.
 
 A tool for performing segmentation and OCR on engineering drawings, primarily focused on mechanical or production drawings. This fork includes enhancements specifically for detecting and recognizing GD&T (Geometric Dimensioning and Tolerancing) feature control frames.
 
@@ -111,7 +111,7 @@ http://dx.doi.org/10.2139/ssrn.5045921
 
 **GD&T Analyzer Project**:
 ```
-https://github.com/donrami/gdtlens
+Available upon request for integration purposes
 ```
 
 ## License
@@ -126,6 +126,5 @@ Special thanks to [Javier Hernández (javvi51)](https://github.com/javvi51) for 
 
 - **Original Repository**: https://github.com/javvi51/edocr2
 - **This Fork**: https://github.com/donrami/edocr2
-- **GD&T Analyzer**: https://github.com/donrami/gdtlens
 - **Modifications Documentation**: [MODIFICATIONS.md](MODIFICATIONS.md)
 - **Attribution**: [ATTRIBUTION.md](ATTRIBUTION.md)

@@ -13,7 +13,6 @@ This directory contains a modified version of eDOCr2, an academic-grade OCR syst
 
 A fork of this project is maintained at:
 - **Fork**: https://github.com/donrami/edocr2
-- **Branch**: gdtlens-integration
 
 ## Modifications for GD&T Analyzer
 
@@ -61,7 +60,7 @@ eDOCr2 serves as the primary detection strategy (Strategy A) in the detection pi
 If you use this modified version in academic work, please cite both:
 
 1. The original eDOCr2 paper
-2. The GD&T Analyzer project: https://github.com/donrami/gdtlens
+2. This fork: https://github.com/donrami/edocr2
 
 ## License
 

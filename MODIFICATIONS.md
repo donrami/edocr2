@@ -232,23 +232,7 @@ git merge upstream/main
 
 # Resolve conflicts if any
 # Then push to your fork
-git push origin gdtlens-integration
-```
-
-### Syncing with gdtlens
-
-After updating the fork:
-
-```bash
-cd /home/mainuser/Desktop/gdtlens
-
-# Copy updated files
-cp -r /home/mainuser/Desktop/edocr2/* server/python/edocr2/
-
-# Commit changes
-git add server/python/edocr2
-git commit -m "chore: update edocr2 from fork"
-git push origin dev-full-drawing
+git push origin main
 ```
 
 ## Version History
@@ -263,4 +247,4 @@ git push origin dev-full-drawing
 ## Contact
 
 For questions about these modifications, please open an issue at:
-https://github.com/donrami/gdtlens/issues
+https://github.com/donrami/edocr2/issues
