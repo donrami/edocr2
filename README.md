@@ -2,6 +2,8 @@
 
 > **Fork Notice**: This is a modified version of [javvi51/edocr2](https://github.com/javvi51/edocr2) customized for GD&T feature control frame detection in engineering drawing analysis applications.
 
+> **⚠️ Work in Progress**: This fork is under active development. Features and APIs may change.
+
 A tool for performing segmentation and OCR on engineering drawings, primarily focused on mechanical or production drawings. This fork includes enhancements specifically for detecting and recognizing GD&T (Geometric Dimensioning and Tolerancing) feature control frames.
 
 ## What's Different in This Fork
@@ -16,13 +18,6 @@ This version includes custom modifications for GD&T Analyzer integration:
 - **0-Based Page Numbering**: Frontend-compatible page indexing
 
 See [MODIFICATIONS.md](MODIFICATIONS.md) for detailed technical changes and [ATTRIBUTION.md](ATTRIBUTION.md) for licensing information.
-
-## Performance
-
-The modified eDOCr2 integration achieves:
-- **93.75% text recall** on engineering drawings
-- **<1% character error rate** on GD&T symbols
-- **Robust detection** across various drawing styles and quality levels
 
 ## Installation
 
